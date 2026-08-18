@@ -1,0 +1,14 @@
+C:\Programming\Projects\C#\ConsoleApp\HomeLibrary\bin\Debug\net10.0\HomeLibrary.exe
+C:\Programming\Projects\C#\ConsoleApp\HomeLibrary\bin\Debug\net10.0\HomeLibrary.deps.json
+C:\Programming\Projects\C#\ConsoleApp\HomeLibrary\bin\Debug\net10.0\HomeLibrary.runtimeconfig.json
+C:\Programming\Projects\C#\ConsoleApp\HomeLibrary\bin\Debug\net10.0\HomeLibrary.dll
+C:\Programming\Projects\C#\ConsoleApp\HomeLibrary\bin\Debug\net10.0\HomeLibrary.pdb
+C:\Programming\Projects\C#\ConsoleApp\HomeLibrary\obj\Debug\net10.0\HomeLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\Projects\C#\ConsoleApp\HomeLibrary\obj\Debug\net10.0\HomeLibrary.AssemblyInfoInputs.cache
+C:\Programming\Projects\C#\ConsoleApp\HomeLibrary\obj\Debug\net10.0\HomeLibrary.AssemblyInfo.cs
+C:\Programming\Projects\C#\ConsoleApp\HomeLibrary\obj\Debug\net10.0\HomeLibrary.csproj.CoreCompileInputs.cache
+C:\Programming\Projects\C#\ConsoleApp\HomeLibrary\obj\Debug\net10.0\HomeLibrary.dll
+C:\Programming\Projects\C#\ConsoleApp\HomeLibrary\obj\Debug\net10.0\refint\HomeLibrary.dll
+C:\Programming\Projects\C#\ConsoleApp\HomeLibrary\obj\Debug\net10.0\HomeLibrary.pdb
+C:\Programming\Projects\C#\ConsoleApp\HomeLibrary\obj\Debug\net10.0\HomeLibrary.genruntimeconfig.cache
+C:\Programming\Projects\C#\ConsoleApp\HomeLibrary\obj\Debug\net10.0\ref\HomeLibrary.dll
