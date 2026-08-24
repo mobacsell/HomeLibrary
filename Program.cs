@@ -11,7 +11,6 @@ Console.Write("Year of publication: ");
 publicationYear = Console.ReadLine();
 Console.Write("ISBN: ");
 isbn = Console.ReadLine();
-
 Console.WriteLine($"Book name: {bookName}");
 Console.WriteLine($"Author: {author}");
 Console.WriteLine($"Year of publication: {publicationYear}");
